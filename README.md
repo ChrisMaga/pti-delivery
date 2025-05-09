@@ -4,7 +4,7 @@
     PTI - PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS<br/>
     APP DELIVERY FASTFOOD    
 </p>
----
+
 ## Sobre o APP
 <p align="justify">Criação de componentes funcionais</p>
 
